@@ -1,3 +1,5 @@
+import './globals.css'
+
 export const metadata = {
   title: 'DevLog',
   description: '프론트엔드 개발자 블로그',
